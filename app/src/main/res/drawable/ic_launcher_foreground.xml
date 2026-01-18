@@ -1,0 +1,9 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="@color/xrable_launcher_fg"
+        android:pathData="M20,54c0,-18.78 15.22,-34 34,-34h0c18.78,0 34,15.22 34,34h0c0,18.78 -15.22,34 -34,34h0c-18.78,0 -34,-15.22 -34,-34z" />
+</vector>
